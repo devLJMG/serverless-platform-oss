@@ -1,4 +1,4 @@
-# Serverless OSs Platform
+# Serverless OS's Platform
 
 Plataforma serverless full stack para gestão de Ordens de Serviço em operação nacional de grande escala.
 
